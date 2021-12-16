@@ -6,5 +6,5 @@
   }
   fclose($fp);
   echo highlight_file(__FILE__, true);
-
+ 
 ?>
